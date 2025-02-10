@@ -1,0 +1,20 @@
+{
+  "name": "skylineshopper",
+  "version": "1.0.0",
+  "description": "Marketplace to buy all Tech related products",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Preetham-commits/SKYLINESHOPPER.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Preetham-commits/SKYLINESHOPPER/issues"
+  },
+  "homepage": "https://github.com/Preetham-commits/SKYLINESHOPPER#readme"
+}
